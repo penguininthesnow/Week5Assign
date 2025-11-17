@@ -15,7 +15,7 @@ CREATE TABLE member(
   time DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 ```
-![task2-1](screenshot/task2-1.png)
+![task2-1](week5/screenshot/task2-1.png)
 ![task2-2](screenshot/task2-2.png)
 ## Task3 - SQL CRUD
 ```sql
